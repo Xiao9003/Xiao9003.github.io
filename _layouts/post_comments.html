@@ -1,0 +1,66 @@
+---
+layout: default
+comments: true
+notes: active
+---
+
+<a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
+<h1 class="post-title">{{ page.title }}</h1>
+{% include date_and_social_share.html %}
+{{ content }}
+
+<!--https://xiao9003.disqus.com/admin/install/platforms/universalcode-->
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://xiao9003.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<!--# http://jmcglone.com/guides/github-pages/-->
+<div class="notes">
+		<div class="note single">
+			<h1 class="title">{{ page.title }}</h1>
+			
+			<h2 class="date"><info datetime="{{ page.date }}">
+				{{ page.date | date_to_string }} {% if page.author %} by {{ page.author }} {% endif %}
+			</info></h2>
+			<!-- Post content -->
+			<div class="notebody">
+				{{ content }}
+			</div>
+			<!-- Post info -->
+			<div class="noteinfo">
+			<!-- include some categories and tags maybe? -->
+			</div>
+
+			<hr>
+
+			<!-- Post comments -->
+			<div class="notecomments">
+				{% include disqus.html %}	 
+			</div>
+		</div><!-- / .note .single -->
+</div><!-- /.notes -->
+
+<!--https://www.its203.com/article/ljinddlj/52273652-->
+<!--{% if site.intensedebate_comments %}-->
+  <!--{% include disqus.html %}-->
+<!--{% endif %}-->
+
+{% if site.maps %}
+  {% include maps.html %}
+{% endif %}
