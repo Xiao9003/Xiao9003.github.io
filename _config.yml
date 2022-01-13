@@ -51,3 +51,4 @@ plugins:
 markdown: rdiscount
 pygments: true
 intensedebate_comments: false
+maps: true 
