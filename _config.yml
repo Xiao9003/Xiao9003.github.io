@@ -2,7 +2,7 @@ title: Xiao Zhang
 #author: Abhinav Saxena
 url: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=NijkS4UAAAAJ
 description: > # description of the site (multiple lines allowed)
-  Xiao Zhang is a Postdoctoral Associate of Department of Biochemistry and Molecular Biology at Dr Shanta Dhar Lab. His research interests include develop mitochondrial-targeted nanoparticles for drug delivery and research their biological mechanism in cancer cells, develop supramolecular delivery strategies for bioimaging and therapeutics, design and synthesize organic fluorescent probes for bioimaging and chemoselective detection of specific biomolecules. and measure the optical responses of fluorescent probes towards specific biological analytes.
+  Dr. Xiao Zhang is a Postdoctoral Associate of Department of Biochemistry and Molecular Biology at Dr Shanta Dhar Lab. His research interests include develop mitochondrial-targeted nanoparticles for drug delivery and research their biological mechanism in cancer cells, develop supramolecular delivery strategies for bioimaging and therapeutics, design and synthesize organic fluorescent probes for bioimaging and chemoselective detection of specific biomolecules. and measure the optical responses of fluorescent probes towards specific biological analytes.
 
 permalink: /:slug.html
 
@@ -32,10 +32,9 @@ theme_config:
   # options for "home" page
   home:
     title_projects: Projects
-    title_old_projects: Patents 
     #title_misc_list: Details
     #title_blog: Blog
-    #title_old_projects: Old Projects
+    title_old_projects: Old Projects
 
 #soopr:
   #publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
