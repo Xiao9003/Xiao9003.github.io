@@ -5,7 +5,7 @@ navbar_entries:
   - title: Projects
     url: Projects
 
-  - title: Patents
+  - title: old_projects
     url: old_projects
 
   #- title: website
