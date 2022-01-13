@@ -1,9 +1,12 @@
 navbar_entries:
-  #- title: about
-    #url: about
+  - title: about
+    url: about
 
-  #- title: blog
-    #url: blog
+  - title: Projects
+    url: Projects
+
+  - title: Patents
+    url: old_projects
 
   #- title: website
     #url: https://www.abhinav.co
@@ -18,11 +21,11 @@ project_entries:
     desc: A phenazine-barbituric acid-based colorimetric and ratiometric near-infrared fluorescent probe for sensitively differentiating biothiols and its application in TiO2 sensor devices
     highlight: Fluorescent probe
 
-Patents:
+old_projects_entries:
   - title: Patent 1
     url: /Patents/P1
     desc: N-annulated perylene derivatives and their applications
-    highlight: Patent
+    highlight: CN107556228A
 
 footer_entries:
   - title: Xiao Zhang's homepage
