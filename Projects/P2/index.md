@@ -2,9 +2,10 @@
 layout: post
 ---
 
-# CN107556228A
+A phenazine-barbituric acid based colorimetric and ratiometric near-infrared
+fluorescent probe for sensitively differentiating biothiols and its application
+in TiO 2 sensor devices
 
-![patent](https://patentimages.storage.googleapis.com/e8/c5/fb/6825c6dbf8b06c/CN107556228A.pdf)
-
+[web]:https://pubs.rsc.org/en/content/articlehtml/1992/cc/c7cc01925d
 ---
 

@@ -1,6 +1,6 @@
 navbar_entries:
-  - title: about
-    url: about
+  - title: About
+    url: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=NijkS4UAAAAJ
 
   - title: Projects
     url: Projects
