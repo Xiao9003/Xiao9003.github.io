@@ -10,12 +10,11 @@ navbar_entries:
 
 project_entries:
   - title: Project 1
-    url: /Project/P1
+    url: /Projects/P1
     desc: Inhibition of fatty acid oxidation in cancer cells using mitochondria targeted metabolic inhibitors
-    highlight: metabolic inhibitors
 
   - title: Project 2
-    url: /Project/P2
+    url: /Projects/P2
     desc: A phenazine-barbituric acid-based colorimetric and ratiometric near-infrared fluorescent probe for sensitively differentiating biothiols and its application in TiO2 sensor devices
     highlight: Fluorescent probe
 
