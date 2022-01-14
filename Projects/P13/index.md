@@ -8,3 +8,4 @@ Two chemodosimeters PDMI and PMI for cyanide detection were designed and synthes
 
 ---
 
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=cbcbcb&w=268&t=tt&d=G-3Yo07Y4qKDnaWsy1JpN7bgwYBBXLHkJE8preptN1U&cmo=5fa08c&cmn=5fa08c'></script>
