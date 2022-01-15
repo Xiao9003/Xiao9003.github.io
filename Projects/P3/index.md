@@ -27,7 +27,15 @@ Hypochlorous acid (HOCl) is a highly effective oxidant produced during phagocyto
 <center><script type="text/javascript"
 src="//widget.supercounters.com/ssl/map.js"></script><script
 type="text/javascript">var sc_map_var = sc_map_var ||
-[];sc_map(1628655,"112288","ff0000",40)</script><br><noscript><a
+[];sc_map(1628656,"112288","ff0000",40)</script><br><noscript><a
+href="http://www.supercounters.com/">free online counter</a></noscript>
+</center>
+<!-- END: Powered by Supercounters.com -->
+>
+<!-- BEGIN: Powered by Supercounters.com -->
+<center><script type="text/javascript"
+src="//widget.supercounters.com/ssl/hit.js"></script><script
+type="text/javascript">sc_hit(1628657,3,7);</script><br><noscript><a
 href="http://www.supercounters.com/">free online counter</a></noscript>
 </center>
 <!-- END: Powered by Supercounters.com -->

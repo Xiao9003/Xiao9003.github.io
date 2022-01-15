@@ -29,3 +29,11 @@ type="text/javascript">var sc_map_var = sc_map_var ||
 href="http://www.supercounters.com/">free online counter</a></noscript>
 </center>
 <!-- END: Powered by Supercounters.com -->
+<!-- BEGIN: Powered by Supercounters.com -->
+<center><script type="text/javascript"
+src="//widget.supercounters.com/ssl/hit.js"></script><script
+type="text/javascript">sc_hit(1628655,3,7);</script><br><noscript><a
+href="http://www.supercounters.com/">free online counter</a></noscript>
+</center>
+<!-- END: Powered by Supercounters.com -->
+>
