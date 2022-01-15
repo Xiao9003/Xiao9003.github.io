@@ -9,5 +9,6 @@ metabolic inhibitors
 
 ---
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=541ki6a3p1k&amp;m=2&amp;c=007eff&amp;cr1=007eff&amp;f=verdana&amp;l=33" async="async"></script>
+<meta name='LTF_verify' content='9f3d1df81b92e88f319e9bdd21e02b45'/>
+<!--<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=541ki6a3p1k&amp;m=2&amp;c=007eff&amp;cr1=007eff&amp;f=verdana&amp;l=33" async="async"></script>-->
 <!--<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=cbcbcb&w=268&t=tt&d=AkXhChni97RSFeNqU-zrTuJ9Z29X57K3GvG_1pYIhBM&cmo=5fa08c&cmn=5fa08c'></script>-->
