@@ -25,8 +25,7 @@ Citrate is an important intermediate in the citric acid cycle, a vital metabolic
 <center><script type="text/javascript"
 src="//widget.supercounters.com/ssl/map.js"></script><script
 type="text/javascript">var sc_map_var = sc_map_var ||
-[];sc_map(1628651,"112288","ff0000",40)</script><br><noscript><a
+[];sc_map(1628654,"112288","ff0000",40)</script><br><noscript><a
 href="http://www.supercounters.com/">free online counter</a></noscript>
 </center>
 <!-- END: Powered by Supercounters.com -->
->
