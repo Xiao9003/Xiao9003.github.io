@@ -8,16 +8,25 @@ Citrate is an important intermediate in the citric acid cycle, a vital metabolic
 
 ---
 
-<center><a href="https://livetrafficfeed.com/live-maps-visitor" data-size="60"
-data-type="1" data-root="0" id="LTF_mapjs_website">Maps Visitor</a><script
-type="text/javascript"
-src="//cdn.livetrafficfeed.com/static/mapjs/live.v2.js"></script><noscript><a
-href="http://livetrafficfeed.com/live-maps-visitor">Maps Visitor</a><a
-href="https://w3seotools.com">SEO audit tools</a></noscript></center>
-<center><a href="https://livetrafficfeed.com/hit-counter" data-root="0"
-data-unique="0" data-style="3" data-min="7" data-start="1"
-id="LTF_hitcounter">Website Hit Counters</a><script type="text/javascript"
-src="//cdn.livetrafficfeed.com/static/hitcounterjs/live.js"></script></center><noscript><a
-href="https://livetrafficfeed.com/hit-counter">Website Hit
-Counters</a></noscript>
+<!--<center><a href="https://livetrafficfeed.com/live-maps-visitor" data-size="60"-->
+<!--data-type="1" data-root="0" id="LTF_mapjs_website">Maps Visitor</a><script-->
+<!--type="text/javascript"-->
+<!--src="//cdn.livetrafficfeed.com/static/mapjs/live.v2.js"></script><noscript><a-->
+<!--href="http://livetrafficfeed.com/live-maps-visitor">Maps Visitor</a><a-->
+<!--href="https://w3seotools.com">SEO audit tools</a></noscript></center>-->
+<!--<center><a href="https://livetrafficfeed.com/hit-counter" data-root="0"-->
+<!--data-unique="0" data-style="3" data-min="7" data-start="1"-->
+<!--id="LTF_hitcounter">Website Hit Counters</a><script type="text/javascript"-->
+<!--src="//cdn.livetrafficfeed.com/static/hitcounterjs/live.js"></script></center><noscript><a-->
+<!--href="https://livetrafficfeed.com/hit-counter">Website Hit-->
+<!--Counters</a></noscript>-->
 <!--<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=cbcbcb&w=268&t=tt&d=vJ0BtQ7hhUOqCx5H_Jqdre-wRzDYg9p3zXbAm3XRmOI&cmo=5fa08c&cmn=5fa08c'></script>-->
+<!-- BEGIN: Powered by Supercounters.com -->
+<center><script type="text/javascript"
+src="//widget.supercounters.com/ssl/map.js"></script><script
+type="text/javascript">var sc_map_var = sc_map_var ||
+[];sc_map(1628651,"112288","ff0000",40)</script><br><noscript><a
+href="http://www.supercounters.com/">free online counter</a></noscript>
+</center>
+<!-- END: Powered by Supercounters.com -->
+>
