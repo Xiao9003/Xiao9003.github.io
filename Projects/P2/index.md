@@ -8,10 +8,10 @@ Citrate is an important intermediate in the citric acid cycle, a vital metabolic
 
 ---
 
-<center><a href="https://livetrafficfeed.com/flag-counter" data-row="10"
-data-col="3" data-code="0" data-flag="1" data-bg="e9eef4" data-text="000000"
-data-root="0" id="LTF_flags_href">Flag Counter</a><script type="text/javascript"
-src="//cdn.livetrafficfeed.com/static/flag-counter/live.v2.js"></script><noscript><a
-href="https://livetrafficfeed.com/flag-counter">Flag Counter</a><a
+<center><a href="https://livetrafficfeed.com/live-maps-visitor" data-size="60"
+data-type="4" data-root="0" id="LTF_mapjs_website">Maps Visitor</a><script
+type="text/javascript"
+src="//cdn.livetrafficfeed.com/static/mapjs/live.v2.js"></script><noscript><a
+href="http://livetrafficfeed.com/live-maps-visitor">Maps Visitor</a><a
 href="https://w3seotools.com">SEO audit tools</a></noscript></center>">
 <!--<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=cbcbcb&w=268&t=tt&d=vJ0BtQ7hhUOqCx5H_Jqdre-wRzDYg9p3zXbAm3XRmOI&cmo=5fa08c&cmn=5fa08c'></script>-->
