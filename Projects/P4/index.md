@@ -9,7 +9,7 @@ A new turn-on near-infrared fluorescence probe (BDP) based on dibenzo[a,c]phenaz
 ---
 
 <a href="https://info.flagcounter.com/jujA"><img
-src="https://s01.flagcounter.com/map/jujA/size_l/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/"
+src="https://s01.flagcounter.com/map/jujA/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/"
 alt="Flag Counter" border="0"></a>
 
 <!--<center><a href="https://livetrafficfeed.com/live-maps-visitor" data-size="60"-->
