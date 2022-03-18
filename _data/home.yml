@@ -87,10 +87,10 @@ project_entries:
     #desc: Fluorescence “Turn-on” Sensor for Cyanide Based on Phenazine Derivative
 
 old_project_entries:
-  - title: Patent 
+  - title: CN107556228A 
     url: /old_projects/P1
     desc: N-annulated perylene derivatives and their applications
-    highlight: CN107556228A
+    highlight: Patent
 
 footer_entries:
   - title: Xiao Zhang's homepage
