@@ -7,42 +7,6 @@ Citrate is an important intermediate in the citric acid cycle, a vital metabolic
 [A light-up fluorescent probe for citrate detection based on bispyridinum amides with aggregation-induced emission feature](https://www.sciencedirect.com/science/article/pii/S0039914017310640)
 
 ---
-
-<!--<center><a href="https://livetrafficfeed.com/live-maps-visitor" data-size="60"-->
-<!--data-type="1" data-root="0" id="LTF_mapjs_website">Maps Visitor</a><script-->
-<!--type="text/javascript"-->
-<!--src="//cdn.livetrafficfeed.com/static/mapjs/live.v2.js"></script><noscript><a-->
-<!--href="http://livetrafficfeed.com/live-maps-visitor">Maps Visitor</a><a-->
-<!--href="https://w3seotools.com">SEO audit tools</a></noscript></center>-->
-<!--<center><a href="https://livetrafficfeed.com/hit-counter" data-root="0"-->
-<!--data-unique="0" data-style="3" data-min="7" data-start="1"-->
-<!--id="LTF_hitcounter">Website Hit Counters</a><script type="text/javascript"-->
-<!--src="//cdn.livetrafficfeed.com/static/hitcounterjs/live.js"></script></center><noscript><a-->
-<!--href="https://livetrafficfeed.com/hit-counter">Website Hit-->
-<!--Counters</a></noscript>-->
-<!--<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=cbcbcb&w=268&t=tt&d=vJ0BtQ7hhUOqCx5H_Jqdre-wRzDYg9p3zXbAm3XRmOI&cmo=5fa08c&cmn=5fa08c'></script>-->
-<!-- BEGIN: Powered by Supercounters.com -->
-<!--<center><script type="text/javascript"-->
-<!--src="//widget.supercounters.com/ssl/map.js"></script><script-->
-<!--type="text/javascript">var sc_map_var = sc_map_var ||-->
-<!--[];sc_map(1628654,"112288","ff0000",40)</script><br><noscript><a-->
-<!--href="http://www.supercounters.com/">free online counter</a></noscript>-->
-<!--</center>-->
-<!--[> END: Powered by Supercounters.com <]-->
-<!--[> BEGIN: Powered by Supercounters.com <]-->
-<!--<center><script type="text/javascript"-->
-<!--src="//widget.supercounters.com/ssl/hit.js"></script><script-->
-<!--type="text/javascript">sc_hit(1628655,3,7);</script><br><noscript><a-->
-<!--href="http://www.supercounters.com/">free online counter</a></noscript>-->
-<!--</center>-->
-<!--[> END: Powered by Supercounters.com <]-->
-<!-->-->
-<!-- Begin Web-Stat code v 7.0 -->
-<span id="wts2088287"></span>
-<script>var wts=document.createElement('script');wts.async=true;
-wts.src='https://app.ardalio.com/log7.js';document.head.appendChild(wts);
-wts.onload = function(){ wtslog7(2088287,2); };
-</script><noscript><a href="https://www.web-stat.com">
-<img src="https://app.ardalio.com/7/2/2088287.png" 
-alt="Web-Stat analytics"></a></noscript>
-<!-- End Web-Stat code v 7.0 -->>
+<a href="https://info.flagcounter.com/fYHG"><img
+src="https://s05.flagcounter.com/map/fYHG/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/"
+alt="Flag Counter" border="0"></a>
